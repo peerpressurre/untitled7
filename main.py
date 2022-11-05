@@ -10,4 +10,4 @@ def pali():
 
     except Exception as ex:
         print(f'Error: {ex}')
-pali()
+pali(

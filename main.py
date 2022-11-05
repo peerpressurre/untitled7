@@ -1,10 +1,14 @@
 import statistics
 def pali():
     try:
-        for i
-        text = int(input('text->'))
+        list = []
 
-        length = len(text1)
+        for i in text:
+            text = int(input('text->'))
+            list.append(i)
+
+        summary = sum(list)
+        length = len(list)
         avr = summary / length
         print(avr)
 
